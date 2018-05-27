@@ -1,0 +1,10 @@
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\TwitchBot.Form1.resources
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\bin\Debug\ChatBot.exe.config
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\bin\Debug\ChatBot.exe
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\bin\Debug\ChatBot.pdb
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\ChatBot.exe
+C:\Users\Owner\Downloads\Twitchbot\TwitchBot\TwitchBot\obj\Debug\ChatBot.pdb
